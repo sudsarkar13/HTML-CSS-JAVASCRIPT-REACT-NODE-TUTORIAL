@@ -12,7 +12,7 @@
 `Ctrl + /` - Comment line.
 
 
-### **Block-Level Elements**
+## **Block-Level Elements**
 
 A Block-level element occupies the entire horizontal space of its parent element (container), and vertical space equal to the height of its contents, thereby creating a "block". Browsers typically display the block-level element with a newline both before and after the element.
 
@@ -20,7 +20,7 @@ The Block-Level Elements are:
 
 `<address>` `<article>` `<aside>` `<blockquote>` `<canvas>` `<dd>` `<div>` `<dl>` `<dt>` `<fieldset>` `<figcaption>` `<figure>` `<footer>` `<form>` `<h1>-<h6>` `<header>` `<hr>` `<li>` `<main>` `<nav>` `<noscript>` `<ol>` `<p>` `<pre>` `<section>` `<table>` `<tfoot>` `<ul>` `<video>`
 
-### **Inline-Level Elements**
+## **Inline-Level Elements**
 
 Inline elements display in a line. They do not force the text after them to a new line. An anchor (or link) is an example of an inline element. You can put several links in a row, and they will display in a line.
 
