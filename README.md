@@ -11,7 +11,6 @@
 
 `Ctrl + /` - Comment line.
 
-
 ## **Block-Level Elements**
 
 A Block-level element occupies the entire horizontal space of its parent element (container), and vertical space equal to the height of its contents, thereby creating a "block". Browsers typically display the block-level element with a newline both before and after the element.
